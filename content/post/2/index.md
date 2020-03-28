@@ -65,6 +65,16 @@ Hello Random-chan!
 # まとめ
 動画...作ろう...
 
+作っ(てくれ)た。
+https://www.youtube.com/watch?v=Wrm2wpqIr7E
+
 #使用したアセット
-1. kinect with MS-SDK
+1.  kinect with MS-SDK
 https://assetstore.unity.com/packages/tools/kinect-with-ms-sdk-7747
+2. UniVRM-0.53.0
+https://github.com/vrm-c/UniVRM/releases
+3. ユニティちゃんトゥーンシェーダー2.0
+https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
+
+![](Light_Silhouette.jpg)
+この作品は[ユニティちゃんライセンス条項](http://unity-chan.com/contents/license_jp/)の元作成されています
